@@ -1,0 +1,25 @@
+Things AP needs to set up front:
+
+Custom starter deck (32 bytes)
+Booster type identifier (1 byte)
+AP reward text table (32 + 31 bytes per trainer, standard format)
+Doors on/of (1 byte) - not yet implemented
+Door key text (28 bytes per club, standard format)
+Door key identifiers (16 bytes)
+Trainer refight hint text setting (1 byte)
+In-game location rewards (221 bytes)
+AP item rewards (221 bytes)
+Importance text markers for refight hints (33 bytes)
+
+
+
+
+
+Things the client needs to do:
+
+Write:
+	1 WRAM byte for receiving AP items
+
+Read:
+	2 WRAM bytes for total number of AP items received (for resyncing)
+	61 WRAM Event bytes to monitor locations checked
