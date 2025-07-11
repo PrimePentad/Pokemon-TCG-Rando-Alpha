@@ -1,4 +1,4 @@
-Things AP needs to set up front:
+AP World requirements:
 
 Custom starter deck (32 bytes)
 Booster type identifier (1 byte)
@@ -15,7 +15,7 @@ Importance text markers for refight hints (33 bytes)
 
 
 
-Things the client needs to do:
+AP Client requirements:
 
 Write:
 	1 WRAM byte for receiving AP items
