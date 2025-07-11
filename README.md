@@ -1,6 +1,7 @@
 Pokemon TCG for GBC Randomizer Alpha - Proof of Concept
 
 What am I looking at?
+
     The purpose of this is to provide a proof of concept for the Pokemon TCG randomizer, as well as providing a list of what is needed from the AP world/client. 
     A binary diff patch is provided with a manually injected randomizer to provide a concrete example of my vision for the randomizer.
 
