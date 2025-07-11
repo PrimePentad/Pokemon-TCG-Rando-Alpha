@@ -45,11 +45,11 @@
 ### So how does AP integrate into the game?
   1. The booster packs (and, optionally, medals) are the items added to the AP pool
   2. Locations are:
-    - Trainer first fights: 2 rewards for a win, in addition to a third reward for the leader medals should they be randomized.
-    - Trainer refights: 2 additional rewards for a second win. The trainer will give you a hint as to what the rewards are before a refight, with the specificity selectable by the player.
-    - Ronald and Imakuni follow these same reward structures. Ronald is refightable if the player loses, and Imakuni immediately respawns in another gym for rebattle without requiring a system restart.
-    - The boosters sent to the player in the mail are also randomized.
-    - The trades as well as the slowpoke behind the poster are also thrown into the pool.
+     - Trainer first fights: 2 rewards for a win, in addition to a third reward for the leader medals should they be randomized.
+     - Trainer refights: 2 additional rewards for a second win. The trainer will give you a hint as to what the rewards are before a refight, with the specificity selectable by the player.
+     - Ronald and Imakuni follow these same reward structures. Ronald is refightable if the player loses, and Imakuni immediately respawns in another gym for rebattle without requiring a system restart.
+     - The boosters sent to the player in the mail are also randomized.
+     - The trades as well as the slowpoke behind the poster are also thrown into the pool.
        + However, while the trade requirements are vanilla, you only need to have the required card, you will not actually have to give it up.
        + Furthermore, the reward for these trades is replaced with boosters instead of individual cards.
   3. Once AP integration happens, the player will obtain items send from AP by rereading mail 1, which has been renamed 'AP items'. 
