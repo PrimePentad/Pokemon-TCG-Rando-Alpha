@@ -15,10 +15,25 @@
 
 ## How does the randomizer differ from the vanilla game?
   
-  1. The most important change is in booster back distribution.
-      - The seed provided demonstrates an 'Evolution Line' booster system where boosters are pre-seeded with a playset of a full evolution line. For example, there is a booster pack that contains 4 Spearow and 4 Fearow.
-      - The intention is to provide some lesser-known Pokemon lines a chance to shine in the early game, as they may be among your only options.
-      - There are a limited quantity of boosters in the game, with the intent to prevent players from farming boosters instead of doing AP checks.
-      - A 'Vanilla-like' alternative will be available, with increased card counts in the boosters to make up for the limited booster quantity. However I'm presenting the 'Evolution Line' option here as I believe it is the stronger option after playtesting.
+  1. The most important change is a significant overhaul of the booster packs.
+     - The seed provided demonstrates an 'Evolution Line' booster system where boosters are pre-seeded with a playset of a full evolution line. For example, there is a booster pack that contains 4 Spearow and 4 Fearow.
+     - The intention is to provide some lesser-known Pokemon lines a chance to shine in the early game, as they may be among your only options.
+     - There are a limited quantity of boosters in the game, with the intent to prevent players from farming boosters instead of doing AP checks.
+     - A 'Vanilla-like' alternative will be available, with increased card counts in the boosters to make up for the limited booster quantity. However I'm presenting the 'Evolution Line' option here as I believe it is the stronger option after playtesting.
 
-  2. The second most important change is 
+  2. The second most important change is that there are (optional) doors blocking the club floors.
+     - This provides the game with much needed hard progression, as the game is more or less beatable with a lightly modified starter deck. If you disagree with that opinion, the inclusion of the doors will be optional.
+     - The clerks standing next to the doors will tell the player what the key is. In addition, the clerks will open the door once the key is presented to them.
+     - The door key can be either a specific card or a medal, and the distribution of keys can be any combination of the two, as demonstrated by the example seed.
+    
+  3. So how does AP integrate into the game?
+     - The booster packs (and, optionally, medals) are the items added to the AP pool
+     - Locations are:
+        * Trainer first fights: 2 rewards for a win, in addition to a third reward for the leader medals should they be randomized.
+        * Trainer refights: 2 additional rewards for a second win. The trainer will give you a hint as to what the rewards are before a refight, with the specificity selectable by the player.
+        * Ronald and Imakuni follow these same reward structures. Ronald is refightable if the player loses, and Imakuni immediately respawns in another gym for rebattle without requiring a system restart.
+        * The boosters sent to the player in the mail are also randomized.
+        * The trades as well as the slowpoke behind the poster are also thrown into the pool.
+            + However, while the trade requirements are vanilla, you only need to have the required card, you will not actually have to give it up.
+            + Furthermore, the reward for these trades is replaced with boosters instead of individual cards.
+     - Once AP integration happens, the player will obtain items send from AP by rereading mail 1, which has been renamed 'AP items'. 
