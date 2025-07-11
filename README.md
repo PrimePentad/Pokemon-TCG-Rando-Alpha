@@ -8,8 +8,9 @@
 
 ## So what do you want from me?
 
-  I am primarily hoping to find someone to help build the AP side of things as I have neither the knowledge or time to learn and build it. I am more than happy to learn and help maintain it.
-  Secondarily, please feel free to play the seed and start providing feedback in the Pokemon TCG thread in the Future Games channel in the AP discord. I am not planning on any major changes 
+  1. I am primarily hoping to find someone to help build the AP side of things as I have neither the knowledge or time to learn and build it. I am more than happy to learn and help maintain it.
+  
+  2. Secondarily, please feel free to play the seed and start providing feedback in the Pokemon TCG thread in the Future Games channel in the AP discord. I am not planning on any major changes 
   between now and getting a working AP beta going, but I am happy to start gathering feedback.
 
 
