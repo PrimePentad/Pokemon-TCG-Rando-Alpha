@@ -1,0 +1,225 @@
+RewardTable:
+    db $67          ; Reward Number 00        Prize 1a        Trainer 00: Matthew
+    db $7b          ; Reward Number 01        Prize 1b
+    db $ff          ; Reward Number 02        Prize 1c
+    db $58          ; Reward Number 03        Prize 2a
+    db $37          ; Reward Number 04        Prize 2b
+    db $79          ; Reward Number 05        Prize 1a        Trainer 01: Ryan
+    db $06          ; Reward Number 06        Prize 1b
+    db $ff          ; Reward Number 07        Prize 1c
+    db $3e          ; Reward Number 08        Prize 2a
+    db $23          ; Reward Number 09        Prize 2b
+    db $36          ; Reward Number 0a        Prize 1a        Trainer 02: Andrew
+    db $93          ; Reward Number 0b        Prize 1b
+    db $ff          ; Reward Number 0c        Prize 1c
+    db $17          ; Reward Number 0d        Prize 2a
+    db $91          ; Reward Number 0e        Prize 2b
+    db $92          ; Reward Number 0f        Prize 1a        Trainer 03: Gene
+    db $8e          ; Reward Number 10        Prize 1b
+    db $61          ; Reward Number 11        Prize 1c
+    db $14          ; Reward Number 12        Prize 2a
+    db $29          ; Reward Number 13        Prize 2b
+    db $e7          ; Reward Number 14        Prize 1a        Trainer 04: Brittany
+    db $4B          ; Reward Number 15        Prize 1b
+    db $ff          ; Reward Number 16        Prize 1c
+    db $2a          ; Reward Number 17        Prize 2a
+    db $91          ; Reward Number 18        Prize 2b
+    db $5c          ; Reward Number 19        Prize 1a        Trainer 05: Heather
+    db $1f          ; Reward Number 1a        Prize 1b
+    db $ff          ; Reward Number 1b        Prize 1c
+    db $1c          ; Reward Number 1c        Prize 2a
+    db $1b          ; Reward Number 1d        Prize 2b
+    db $2f          ; Reward Number 1e        Prize 1a        Trainer 06: Kristin
+    db $24          ; Reward Number 1f        Prize 1b
+    db $ff          ; Reward Number 20        Prize 1c
+    db $53          ; Reward Number 21        Prize 2a
+    db $7a          ; Reward Number 22        Prize 2b
+    db $0f          ; Reward Number 23        Prize 1a        Trainer 07: Nikki
+    db $42          ; Reward Number 24        Prize 1b
+    db $84          ; Reward Number 25        Prize 1c
+    db $55          ; Reward Number 26        Prize 2a
+    db $62          ; Reward Number 27        Prize 2b
+    db $20          ; Reward Number 28        Prize 1a        Trainer 08: Jennifer
+    db $21          ; Reward Number 29        Prize 1b
+    db $ff          ; Reward Number 2a        Prize 1c
+    db $27          ; Reward Number 2b        Prize 2a
+    db $46          ; Reward Number 2c        Prize 2b
+    db $33          ; Reward Number 2d        Prize 1a        Trainer 09: Brandon
+    db $74          ; Reward Number 2e        Prize 1b
+    db $ff          ; Reward Number 2f        Prize 1c
+    db $8c          ; Reward Number 30        Prize 2a
+    db $03          ; Reward Number 31        Prize 2b
+    db $3d          ; Reward Number 32        Prize 1a        Trainer 0a: Nicholas
+    db $50          ; Reward Number 33        Prize 1b
+    db $ff          ; Reward Number 34        Prize 1c
+    db $8d          ; Reward Number 35        Prize 2a
+    db $22          ; Reward Number 36        Prize 2b
+    db $6e          ; Reward Number 37        Prize 1a        Trainer 0b: Isaac
+    db $3c          ; Reward Number 38        Prize 1b
+    db $38          ; Reward Number 39        Prize 1c
+    db $64          ; Reward Number 3a        Prize 2a
+    db $e4          ; Reward Number 3b        Prize 2b
+    db $68          ; Reward Number 3c        Prize 1a        Trainer 0c: Erik
+    db $70          ; Reward Number 3d        Prize 1b
+    db $ff          ; Reward Number 3e        Prize 1c
+    db $54          ; Reward Number 3f        Prize 2a
+    db $6a          ; Reward Number 40        Prize 2b
+    db $31          ; Reward Number 41        Prize 1a        Trainer 0d: David
+    db $52          ; Reward Number 42        Prize 1b
+    db $ff          ; Reward Number 43        Prize 1c
+    db $57          ; Reward Number 44        Prize 2a
+    db $73          ; Reward Number 45        Prize 2b
+    db $92          ; Reward Number 46        Prize 1a        Trainer 0e: Joseph
+    db $8e          ; Reward Number 47        Prize 1b
+    db $ff          ; Reward Number 48        Prize 1c
+    db $4a          ; Reward Number 49        Prize 2a
+    db $72          ; Reward Number 4a        Prize 2b
+    db $49          ; Reward Number 4b        Prize 1a        Trainer 0f: Rick
+    db $16          ; Reward Number 4c        Prize 1b
+    db $5f          ; Reward Number 4d        Prize 1c
+    db $92          ; Reward Number 4e        Prize 2a
+    db $8a          ; Reward Number 4f        Prize 2b
+    db $10          ; Reward Number 50        Prize 1a        Trainer 10: Sara
+    db $04          ; Reward Number 51        Prize 1b
+    db $ff          ; Reward Number 52        Prize 1c
+    db $6c          ; Reward Number 53        Prize 2a
+    db $e2          ; Reward Number 54        Prize 2b
+    db $35          ; Reward Number 55        Prize 1a        Trainer 11: Amanda
+    db $2c          ; Reward Number 56        Prize 1b
+    db $ff          ; Reward Number 57        Prize 1c
+    db $75          ; Reward Number 58        Prize 2a
+    db $5d          ; Reward Number 59        Prize 2b
+    db $01          ; Reward Number 5a        Prize 1a        Trainer 12: Joshua
+    db $4f          ; Reward Number 5b        Prize 1b
+    db $ff          ; Reward Number 5c        Prize 1c
+    db $56          ; Reward Number 5d        Prize 2a
+    db $26          ; Reward Number 5e        Prize 2b
+    db $6d          ; Reward Number 5f        Prize 1a        Trainer 13: Amy
+    db $90          ; Reward Number 60        Prize 1b
+    db $81          ; Reward Number 61        Prize 1c
+    db $8d          ; Reward Number 62        Prize 2a
+    db $93          ; Reward Number 63        Prize 2b
+    db $19          ; Reward Number 64        Prize 1a        Trainer 14: John
+    db $90          ; Reward Number 65        Prize 1b
+    db $ff          ; Reward Number 66        Prize 1c
+    db $5e          ; Reward Number 67        Prize 2a
+    db $25          ; Reward Number 68        Prize 2b
+    db $91          ; Reward Number 69        Prize 1a        Trainer 15: Adam
+    db $91          ; Reward Number 6a        Prize 1b
+    db $ff          ; Reward Number 6b        Prize 1c
+    db $e5          ; Reward Number 6c        Prize 2a
+    db $7e          ; Reward Number 6d        Prize 2b
+    db $5a          ; Reward Number 6e        Prize 1a        Trainer 16: Jonathan
+    db $32          ; Reward Number 6f        Prize 1b
+    db $ff          ; Reward Number 70        Prize 1c
+    db $7f          ; Reward Number 71        Prize 2a
+    db $34          ; Reward Number 72        Prize 2b
+    db $07          ; Reward Number 73        Prize 1a        Trainer 17: Ken
+    db $3f          ; Reward Number 74        Prize 1b
+    db $66          ; Reward Number 75        Prize 1c
+    db $39          ; Reward Number 76        Prize 2a
+    db $90          ; Reward Number 77        Prize 2b
+    db $44          ; Reward Number 78        Prize 1a        Trainer 18: Robert
+    db $8f          ; Reward Number 79        Prize 1b
+    db $ff          ; Reward Number 7a        Prize 1c
+    db $2b          ; Reward Number 7b        Prize 2a
+    db $47          ; Reward Number 7c        Prize 2b
+    db $93          ; Reward Number 7d        Prize 1a        Trainer 19: Stephanie
+    db $0e          ; Reward Number 7e        Prize 1b
+    db $ff          ; Reward Number 7f        Prize 1c
+    db $92          ; Reward Number 80        Prize 2a
+    db $59          ; Reward Number 81        Prize 2b
+    db $80          ; Reward Number 82        Prize 1a        Trainer 1a: Daniel
+    db $71          ; Reward Number 83        Prize 1b
+    db $ff          ; Reward Number 84        Prize 1c
+    db $40          ; Reward Number 85        Prize 2a
+    db $88          ; Reward Number 86        Prize 2b
+    db $3b          ; Reward Number 87        Prize 1a        Trainer 1b: Murray
+    db $e3          ; Reward Number 88        Prize 1b
+    db $89          ; Reward Number 89        Prize 1c
+    db $87          ; Reward Number 8a        Prize 2a
+    db $4e          ; Reward Number 8b        Prize 2b
+    db $15          ; Reward Number 8c        Prize 1a        Trainer 1c: Michael
+    db $4c          ; Reward Number 8d        Prize 1b
+    db $ff          ; Reward Number 8e        Prize 1c
+    db $93          ; Reward Number 8f        Prize 2a
+    db $4d          ; Reward Number 90        Prize 2b
+    db $0d          ; Reward Number 91        Prize 1a        Trainer 1d: Chris
+    db $e1          ; Reward Number 92        Prize 1b
+    db $ff          ; Reward Number 93        Prize 1c
+    db $7c          ; Reward Number 94        Prize 2a
+    db $41          ; Reward Number 95        Prize 2b
+    db $6b          ; Reward Number 96        Prize 1a        Trainer 1e: Jessica
+    db $0a          ; Reward Number 97        Prize 1b
+    db $ff          ; Reward Number 98        Prize 1c
+    db $82          ; Reward Number 99        Prize 2a
+    db $8f          ; Reward Number 9a        Prize 2b
+    db $5b          ; Reward Number 9b        Prize 1a        Trainer 1f: Mitch
+    db $2d          ; Reward Number 9c        Prize 1b
+    db $08          ; Reward Number 9d        Prize 1c
+    db $43          ; Reward Number 9e        Prize 2a
+    db $78          ; Reward Number 9f        Prize 2b
+    db $48          ; Reward Number a0        Prize 1a        Trainer 20: Imakuni
+    db $00          ; Reward Number a1        Prize 1b
+    db $ff          ; Reward Number a2        Prize 1c
+    db $30          ; Reward Number a3        Prize 2a
+    db $0c          ; Reward Number a4        Prize 2b
+
+
+.miscRewards
+    db $02          ; Reward Number a5        Ronald_1
+    db $77          ; Reward Number a6        
+    db $63          ; Reward Number a7        Ronald_2
+    db $69          ; Reward Number a8        
+    db $1e          ; Reward Number a9        Mail_1
+    db $ff          ; Reward Number aa        
+    db $13          ; Reward Number ab        Mail_2
+    db $ff          ; Reward Number ac        
+    db $60          ; Reward Number ad        Mail_3
+    db $ff          ; Reward Number ae        
+    db $e6          ; Reward Number af        Mail_4
+    db $ff          ; Reward Number b0        
+    db $05          ; Reward Number b1        Mail_5
+    db $ff          ; Reward Number b2        
+    db $7d          ; Reward Number b3        Mail_6
+    db $ff          ; Reward Number b4        
+    db $18          ; Reward Number b5        Mail_7
+    db $ff          ; Reward Number b6        
+    db $2e          ; Reward Number b7        Mail_8
+    db $ff          ; Reward Number b8        
+    db $65          ; Reward Number b9        Mail_9
+    db $ff          ; Reward Number ba        
+    db $3a          ; Reward Number bb        Mail_10
+    db $0b          ; Reward Number bc        
+    db $1d          ; Reward Number bd        Mail_11
+    db $1a          ; Reward Number be        
+    db $6f          ; Reward Number bf        Mail_12
+    db $ff          ; Reward Number c0        
+    db $45          ; Reward Number c1        Mail_13
+    db $ff          ; Reward Number c2        
+    db $11          ; Reward Number c3        Mail_14
+    db $ff          ; Reward Number c4        
+    db $90          ; Reward Number c5        Mail_15
+    db $ff          ; Reward Number c6        
+    db $8b          ; Reward Number c7        Pappy_in_Psychic_Club
+    db $ff          ; Reward Number c8        
+    db $76          ; Reward Number c9        Man_in_Fighting_Club
+    db $ff          ; Reward Number ca        
+    db $e0          ; Reward Number cb        Lad_in_Fire_Club
+    db $ff          ; Reward Number cc        
+    db $09          ; Reward Number cd        Chap_in_Lightning_Club
+    db $ff          ; Reward Number ce        
+    db $83          ; Reward Number cf        Gal_in_Water_Club
+    db $ff          ; Reward Number d0        
+    db $28          ; Reward Number d1        Lass_in_Grass_Club_1
+    db $ff          ; Reward Number d2        
+    db $7a          ; Reward Number d3        Lass_in_Grass_Club_2
+    db $ff          ; Reward Number d4        
+    db $85          ; Reward Number d5        Lass_in_Grass_Club_3
+    db $ff          ; Reward Number d6        
+    db $12          ; Reward Number d7        Ishihara_1
+    db $ff          ; Reward Number d8        
+    db $51          ; Reward Number d9        Ishihara_2
+    db $ff          ; Reward Number da        
+    db $86          ; Reward Number db        Ishihara_3
+    db $ff          ; Reward Number dc        
